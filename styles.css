@@ -1,0 +1,14 @@
+/*
+.sqs-block-content {
+  border: 3px solid purple;
+  margin: 10px;
+  padding: 30px;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+*/
+body{
+  font-family: "Helvetica", "Arial", sans-serif;
+background-color: #efefef;
+margin: 0;
+padding: 50px; 
+}
